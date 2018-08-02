@@ -1,1 +1,2 @@
 The third file of the repo.
+Adding for conflicts.
