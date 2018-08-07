@@ -1,1 +1,2 @@
 Assuming to raise a conflict when merging.
+Adding a new line to check pull to a different branch.
